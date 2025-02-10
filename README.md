@@ -81,6 +81,16 @@ cd smart-water-quality-monitoring
 
 ---  
 
+
+FILES :
+SENSOR CODE 
+I2C ADDRES CODE
+LCD CHECKING CODE
+PROJECT REPORT 
+
+
+
+
 ## 🚧 **Challenges Faced**  
 🔹 Sensor calibration for accurate readings  
 🔹 Electrical noise affecting analog measurements  
